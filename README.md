@@ -29,6 +29,7 @@ Please join this group if you are into streaming services for your clients.
 
 * [https://www.facebook.com/groups/LiveStreamingServices/](https://www.facebook.com/groups/159465471270727/) - Facebook Live Streaming Services (Group)
 * [YouTube Sony PXW-FS5 UDP setup video](https://www.youtube.com/watch?v=) - The IP setup howto video for a Sony PXW-FS5 video camera
+* [My First live stream via this method](https://www.youtube.com/watch?v=mQxLyIcXifY) - My First YouTube Live Stream via FFmpeg with the Sony PXW-FS5
 
 ## License
 
