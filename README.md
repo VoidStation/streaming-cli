@@ -16,6 +16,7 @@ Please join this group if you are into streaming services for your clients.
 4. Run 'sudo chmod +x *.sh' to make the script executable.
 5. Change the YouTube "PRIVATEKEY" to your own in "stream2youtube.sh".
 6. Now setup your Sony PXW-FS5 or other UDP streaming camera to the local IP of this computer on port 1234.
+	* [YouTube Sony PXW-FS5 UDP setup video](https://www.youtube.com/watch?v=fW7_xjMt-gc)
 	* "ifconfig" in "terminal.app" will find you the IP.
 7. Start the stream on the camera.
 8. Run "stream2youtube.sh".
@@ -28,7 +29,7 @@ Please join this group if you are into streaming services for your clients.
 ## Links
 
 * [https://www.facebook.com/groups/LiveStreamingServices/](https://www.facebook.com/groups/159465471270727/) - Facebook Live Streaming Services (Group)
-* [YouTube Sony PXW-FS5 UDP setup video](https://www.youtube.com/watch?v=) - The IP setup howto video for a Sony PXW-FS5 video camera
+* [YouTube Sony PXW-FS5 UDP setup video](https://www.youtube.com/watch?v=fW7_xjMt-gc) - The IP setup howto video for a Sony PXW-FS5 video camera
 * [My First live stream via this method](https://www.youtube.com/watch?v=mQxLyIcXifY) - My First YouTube Live Stream via FFmpeg with the Sony PXW-FS5
 
 ## License
