@@ -1,0 +1,14 @@
+# Ignore .gitignore, target and tmp folders
+/src/*/.gitignore
+/target
+/tmp
+
+# Ignore Eclipse project and settings files
+.classpath
+.settings
+.project
+.externalToolBuilders
+.buildpath
+
+# Ignore Mac files
+.DS_Store
