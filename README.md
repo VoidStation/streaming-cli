@@ -22,6 +22,14 @@ Please join this group if you are into streaming services for your clients.
 8. Run "stream2youtube.sh".
 9. Check [YouTube Live Dashboard](https://www.youtube.com/live_dashboard) and go-live!
 
+# Facebook
+
+1. Read https://www.facebook.com/facebookmedia/get-started/live
+2. Change "STREAMKEY" to your Stream Key found on https://business.facebook.com/YOUR-PAGE/publishing_tools/?section=VIDEOS
+3. Start the stream on the camera.
+4. Run "stream2facebook.sh".
+5. Check [Facebook Dashnoard](https://business.facebook.com/YOUR-PAGE/publishing_tools/?section=VIDEOS) and go-live!
+
 ## Built With
 
 * [FFmpeg](https://www.ffmpeg.org/) - Converting video and audio has never been so easy
@@ -30,7 +38,9 @@ Please join this group if you are into streaming services for your clients.
 
 * [https://www.facebook.com/groups/LiveStreamingServices/](https://www.facebook.com/groups/159465471270727/) - Facebook Live Streaming Services (Group)
 * [YouTube Sony PXW-FS5 UDP setup video](https://www.youtube.com/watch?v=fW7_xjMt-gc) - The IP setup howto video for a Sony PXW-FS5 video camera
+* [Facebook Sony PXW-FS5 UDP setup video](https://www.youtube.com/watch?v=) - The IP to Facebook howto video for a Sony PXW-FS5 video camera
 * [My First live stream via this method](https://www.youtube.com/watch?v=mQxLyIcXifY) - My First YouTube Live Stream via FFmpeg with the Sony PXW-FS5
+* [My First live stream via this method](https://www.facebook.com/VoidStation/videos/682691695260029/) - My First Facebook Live Stream via FFmpeg with the Sony PXW-FS5
 
 ## License
 
