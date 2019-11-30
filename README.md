@@ -19,7 +19,7 @@ Please join this group if you are into streaming services for your clients.
 	* [YouTube Sony PXW-FS5 UDP setup video](https://www.youtube.com/watch?v=fW7_xjMt-gc)
 	* "ifconfig" in "terminal.app" will find you the IP.
 7. Start the stream on the camera.
-8. Run "stream2youtube.sh".
+8. Run "./stream2youtube.sh".
 9. Check [YouTube Live Dashboard](https://www.youtube.com/live_dashboard) and go-live!
 
 # Facebook
